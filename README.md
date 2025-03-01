@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Flaviya Fernando
-- 👀 I’m interested in coding 
-- 🌱 I’m currently engaging in BSc (Sci) hons in IA
+- 🌱 I’m currently engaging in BSc (Hons) in AI - University of Moratuwa
 - 💞️ I did my studies at Holy Family Convent Colombo 04
 - 📫 You can reach me through - shiharaf8@gmail.com
 
